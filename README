@@ -23,17 +23,4 @@ Learning support with a generated list of missed states.
 ▶️ How to Run
 Make sure you have Python installed.
 
-Install pandas if you haven't already:
-
-bash
-Copy
-Edit
-pip install pandas
-
-
-Run the game:
-
-bash
-Copy
-Edit
-python main.py
+Install pandas if you haven't already
