@@ -1,0 +1,39 @@
+🗺️ U.S. States Game
+This is a fun interactive game built with Python's turtle graphics module and pandas for data handling. The objective is to name all 50 U.S. states. When a correct state is entered, it appears on a blank map at its correct location.
+
+🎮 How to Play
+You'll be prompted to enter the name of a U.S. state.
+
+If the guess is correct, the state name will be displayed on the map.
+
+The game continues until all 50 states are guessed or you type Exit.
+
+After choosing to exit with the same keyword, a file called States_to_learn.csv will be created, listing all the states you missed.
+
+🧠 Features
+Interactive GUI map using turtle.
+
+Real-time progress updates.
+
+Data-driven state positioning using pandas.
+
+Learning support with a generated list of missed states.
+
+
+▶️ How to Run
+Make sure you have Python installed.
+
+Install pandas if you haven't already:
+
+bash
+Copy
+Edit
+pip install pandas
+
+
+Run the game:
+
+bash
+Copy
+Edit
+python main.py
